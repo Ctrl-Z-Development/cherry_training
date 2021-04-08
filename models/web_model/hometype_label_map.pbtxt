@@ -1,0 +1,26 @@
+item {
+      id: 1
+      name: 'spanish'
+}
+item {
+     id: 2
+     name: 'modern'
+}
+item {
+     id: 3
+     name: 'colonial'
+}
+item {
+     id: 4
+     name: 'craftsman'
+}
+item {
+     id: 5
+     name: 'ranch'
+}
+item {
+     id: 6
+     name: 'traditional'
+}
+
+
