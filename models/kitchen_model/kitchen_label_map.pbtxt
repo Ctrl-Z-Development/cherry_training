@@ -1,0 +1,38 @@
+item {
+      id: 1
+      name: 'Kitchen_Island'
+}
+item {
+     id: 2
+     name: 'Pendant_lighting'
+}
+item {
+     id: 3
+     name: 'normal_sink'
+}
+item {
+     id: 4
+     name: 'white_cabinet'
+}
+item {
+     id: 5
+     name: 'other_color_cabinet'
+}
+item {
+     id: 6
+     name: 'wall_exhaust'
+}
+item {
+     id: 7
+     name: 'brown_cabinet'
+}
+item {
+     id: 8
+     name: 'combo_oven'
+}
+item {
+     id: 9
+     name: 'barn_sink'
+}
+
+
