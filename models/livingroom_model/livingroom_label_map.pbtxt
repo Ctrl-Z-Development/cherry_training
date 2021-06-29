@@ -1,0 +1,48 @@
+item {
+      id: 1
+      name: 'ceiling-fan'
+}
+item {
+     id: 2
+     name: 'rug'
+}
+item {
+     id: 3
+     name: 'window'
+}
+item {
+     id: 4
+     name: 'carpet'
+}
+item {
+     id: 5
+     name: 'fireplace'
+}
+item {
+     id: 6
+     name: 'mantle'
+}
+item {
+     id: 7
+     name: 'built-in-shelves'
+}
+item {
+     id: 8
+     name: 'kitchen'
+}
+item {
+     id: 9
+     name: 'chandelier'
+}
+item {
+     id: 10
+     name: 'stairs'
+}
+item {
+     id: 11
+     name: 'wood-floor'
+}
+item {
+     id: 12
+     name: 'tile'
+}

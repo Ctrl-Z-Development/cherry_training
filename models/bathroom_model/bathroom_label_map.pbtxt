@@ -1,0 +1,64 @@
+item {
+      id: 1
+      name: 'bathtub'
+}
+item {
+     id: 2
+     name: 'single_vanity'
+}
+item {
+     id: 3
+     name: 'walk_in_shower'
+}
+item {
+     id: 4
+     name: 'double_vanity'
+}
+item {
+     id: 5
+     name: 'window'
+}
+item {
+     id: 6
+     name: 'white_cabinet'
+}
+item {
+     id: 7
+     name: 'brown_cabinet'
+}
+item {
+     id: 8
+     name: 'shower_tub_combo'
+}
+item {
+     id: 9
+     name: 'grey_cabinet'
+}
+item {
+     id: 10
+     name: 'black_cabinet'
+}
+item {
+     id: 11
+     name: 'pedestal_sink'
+}
+item {
+     id: 12
+     name: 'blue_cabinet'
+}
+item {
+     id: 13
+     name: 'tile_flooring'
+}
+item {
+     id: 14
+     name: 'wood_design_floor'
+}
+item {
+     id: 15
+     name: 'wood_cabinet'
+}
+item {
+     id: 16
+     name: 'white_stone_floor'
+}
